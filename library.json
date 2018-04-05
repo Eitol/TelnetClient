@@ -1,0 +1,23 @@
+{
+  "name": "TelnetClient",
+  "keywords": "telnet, serial, client, esp8266, nodemcu",
+  "description": "  Telnet client for esp8266 / nodemcu",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Eitol/TelnetClient.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Hector Oliveros",
+      "email": "hector.oliveros.leon@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
+
+ 
